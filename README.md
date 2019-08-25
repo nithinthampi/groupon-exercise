@@ -21,3 +21,6 @@ npm run dev
 ```
 
 Navigate to http://localhost:1234
+
+### Lazy Guide
+Navigate to https://nithinthampi.netlify.com/
