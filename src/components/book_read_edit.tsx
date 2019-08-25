@@ -52,7 +52,9 @@ const CardContent = styled.div`
 const CardName = styled.p`
   font-size: 32px;
   line-height: 0.9;
-  font-weight: 700;
+  font-weight: 500;
+  max-height: 56px;
+  overflow: hidden;
 `;
 
 const Author = styled.span`

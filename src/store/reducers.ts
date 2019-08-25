@@ -22,7 +22,7 @@ const initialState: BooksState = {
         id: 3,
         author: "Lee Harper",
         description: "Sample description",
-        name: "To Kill A Mockingbird",
+        name: "Mockingbird",
         count: 1,
         edit:false
     }]
