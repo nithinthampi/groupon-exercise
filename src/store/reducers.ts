@@ -4,26 +4,26 @@ import { BooksState, BookActionTypes, UPDATE_BOOK, CREATE_BOOK } from "./types";
 const initialState: BooksState = {
     books: [{
         id: 1,
-        author: "Tony",
-        description: "A book",
-        name: "Neethu Thampi",
+        author: "Mario Puzo",
+        description: "The deadliest lord of the Cosa Nostra. The Godfather.",
+        name: "The Godfather",
         count: 12,
         edit: false
     },
     {
         id: 2,
-        author: "Tony",
-        description: "A book",
-        name: "Nithin Thampi",
-        count: 12,
+        author: "John Grisham",
+        description: "Sample description",
+        name: "A time to kill",
+        count: 19,
         edit:false
     },
     {
         id: 3,
-        author: "Tony",
-        description: "A book",
-        name: "Nithin Thampi",
-        count: 12,
+        author: "Lee Harper",
+        description: "Sample description",
+        name: "To Kill A Mockingbird",
+        count: 1,
         edit:false
     }]
 }
